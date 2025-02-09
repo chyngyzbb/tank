@@ -7,7 +7,7 @@ let tankTwo = document.querySelector(".tank-two");
 let car = document.querySelector(".car");
 let carTwo = document.querySelector(".car-two");
 
-let positionX = 600;
+let positionX = 200;
 let positionY = 250;
 
 // tot.style.background = "rgb(233, 169, 73)";

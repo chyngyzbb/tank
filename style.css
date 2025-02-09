@@ -64,30 +64,30 @@
   .tank {
     position: absolute;
     left: 170px;
-    top: 50px;
+    top: 450px;
     width: 150px;
     transition: 1s;
-    transform: rotate(270deg);
+    transform: rotate(90deg);
   }  .tank-two {
     position: absolute;
     left: 100px;
-    top: 60px;
+    top: 460px;
     width: 150px;
     transition: 1s;
-    transform: rotate(270deg);
+    transform: rotate(90deg);
   }  .car {
     position: absolute;
     left: 60px;
-    top: 20px;
+    top: 450px;
     width: 100px;
     transition: 1s;
-    transform: rotate(270deg);
+    transform: rotate(90deg);
   }
   .car-two {
     position: absolute;
     left: 0px;
-    top: 50px;
+    top: 470px;
     width: 100px;
     transition: 1s;
-    transform: rotate(270deg);
+    transform: rotate(90deg);
   }
