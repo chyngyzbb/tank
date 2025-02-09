@@ -10,10 +10,10 @@ let carTwo = document.querySelector(".car-two");
 let positionX = 600;
 let positionY = 250;
 
-tot.style.background = "rgb(233, 169, 73)";
-right.style.background = "rgb(233, 169, 73)";
-left.style.background = "rgb(233, 169, 73)";
-bottom.style.background = "rgb(233, 169, 73)";
+// tot.style.background = "rgb(233, 169, 73)";
+// right.style.background = "rgb(233, 169, 73)";
+// left.style.background = "rgb(233, 169, 73)";
+// bottom.style.background = "rgb(233, 169, 73)";
 
 tankOne.addEventListener('click',()=>{
   Menu(tankOne)
